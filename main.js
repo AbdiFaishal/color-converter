@@ -51,8 +51,6 @@ function converter(a) {
       rgb = 'rgb(' + parseInt(r, 16) + ', ' + parseInt(g, 16) + ', ' + parseInt(b, 16) + ')';
     }
     return `Convert from #${hex} to ${rgb}`;
-    // pake
-    // parseInt('a', 16);
   }
 
   function rgbToHex(r, g, b) {
