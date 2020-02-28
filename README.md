@@ -1,9 +1,10 @@
 # color-converter
-Program to convert RGB to Hex and vice versa depends on the input
-This program automatically detect the input whether it is rgb or hex and convert it
+App to convert RGB to Hex and vice versa depends on the input
+This program automatically detect the input whether it is rgb or hex
 
-from RGB to Hex :
+How to use
+1. from RGB to Hex input example
 converter('rgb(255,255,255)');
 
-from Hex to RGB :
+2. from Hex to RGB input example :
 converter('#fff000');
