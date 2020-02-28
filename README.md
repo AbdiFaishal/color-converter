@@ -1,5 +1,5 @@
 # color-converter
-App to convert RGB to Hex and vice versa depends on the input
+Program (function) to convert RGB to Hex and vice versa depends on the input
 This program automatically detect the input whether it is rgb or hex
 
 How to use
